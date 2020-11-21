@@ -1,0 +1,4 @@
+git adalah software untuk mengelola file secara local
+github adalah situs mengelola git secara online
+branch adalah percabangan 
+push adalah mengirim git ke local
