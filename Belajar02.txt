@@ -1,3 +1,4 @@
 commit adalah savenya git
 habis belajar git langsung ke php
 merge adalah menggabung 2 branch
+fork adalah mengcopy repo
