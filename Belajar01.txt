@@ -3,3 +3,4 @@ github adalah situs mengelola git secara online
 branch adalah percabangan 
 push adalah mengirim file ke ke online(github)
 pull adalah mengambil file dari github
+mergeconflict adalah memperbaiki file yang tidak bisa di merge
