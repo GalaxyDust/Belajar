@@ -1,2 +1,2 @@
 # Belajar
-Repository untuk belajar GitHub
+Repository untuk belajar PHP
