@@ -1,7 +1,7 @@
 <?php 
 // sintaks php
 
-// standar output
+/* standar output
 // echo, print
 // print_r
 // var_dump
@@ -9,50 +9,50 @@
 // echo "Muhammad Maulana Yusuf";
 
 
-// penulisan sintaks php
+/* penulisan sintaks php
 // 1.php di dalam html
 // 2.html di dalam php
 
-// variable dan tipe data
+/* variable dan tipe data
 // variable
 // contoh
 // $nama = "Maulana";
 
-// tidal boleh di awali dengan angka, tapi boleh mengandung angka
+// tidaK boleh di awali dengan angka, tapi boleh mengandung angka
 
-// operasi
-// aritmatika
+/* operasi
+/* aritmatika
 // + - * / %
 // contoh
 // sx = 10;
 // sy = 20;
 // echo $x * $y;
 
-// penggabungan string / concatenation / conta
-// .
+/* penggabungan string / concatenation / conta
+/* .
 // contoh
 // $nama_depan = "Maulana";
 // $nama_belakang = "Yusuf";
 // echo $nama_depan . " " . $nama_belakang;
 
-// assignment
+/* assignment
 // =, +=, -=, *=, /=, %=, .=
 // contoh
 // $x = 1;
 // $x += 5;
 // echo $x;
 
-// perbandingan
+/* perbandingan
 // <, >, <=, >=, ==
 // contoh
 // var_dump(1 == 5);
 
-// identitas
+/* identitas
 // ===, !==
 // contoh
 // var_dump(1 === "1");
 
-// logika
+/* logika
 // &&, ||, | 
 // contoh 
 // $x = 10;
