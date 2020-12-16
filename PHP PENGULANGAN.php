@@ -27,7 +27,7 @@
 	<title>Latihan 1</title>
 	<style>
 		.warna-baris {
-			background-color:silcer;
+			background-color:silver;
 		}
 	</style>
 </head>
