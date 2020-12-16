@@ -9,7 +9,7 @@
 	echo "Assalamualaikum";
 		echo "Namaku Maulana Yusuf<br>";
 			$x = 18;
-				echo "Umurku adalah ".$x." tahun<br>";
+				print "Umurku adalah ".$x." tahun<br>";
 	?>
 
 
